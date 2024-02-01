@@ -1,3 +1,4 @@
-이제 feat#1 브랜치가 되었다
+feat2 branch`
+
 
 develop 브랜치를 만들었다ㅏ.
